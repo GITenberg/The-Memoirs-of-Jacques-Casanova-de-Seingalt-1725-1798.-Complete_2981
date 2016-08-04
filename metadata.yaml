@@ -1,0 +1,57 @@
+_repo: The-Memoirs-of-Jacques-Casanova-de-Seingalt-1725-1798.-Complete_2981
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+covers:
+- cover_type: archival
+  image_path: 2981/2981-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+- cover_type: archival
+  image_path: 2981/2981-h/images/cover1th.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Casanova, Giacomo
+    aliases:
+    - Seingalt, Giacomo Girolamo Casanova de
+    - Seingalt, Jacques Casanova de
+    birthdate: 1725
+    deathdate: 1798
+    gutenberg_agent_id: '1075'
+    url: http://www.gutenberg.org/2009/agents/1075
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Casanova
+description: ''
+gutenberg_bookshelf:
+- Germany
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2004-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- 18th century -- Biography'
+- !lcc 'D'
+- !lcsh 'Casanova, Giacomo, 1725-1798'
+- GITenberg
+tableOfContents: Casanova at Dux -- Author's preface -- Translator's preface -- Childhood
+  and adolescence -- A cleric in Naples -- Military career -- Return to Venice --
+  Milan and Mantua -- Paris -- Venice -- Convent affairs -- The false nun -- Under
+  the leads -- Paris and Holland -- Return to Paris -- Holland and Germany -- Switzerland
+  -- With Voltaire -- Depart Switzerland -- Return to Italy -- Return to Naples --
+  Back again to Paris -- Milan -- South of France -- To London -- The English -- London
+  to Berlin -- Russia and Poland -- Spain -- Expelled from Spain -- Rome -- Florence
+  to Trieste -- Old age and death.
+title: The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete
+url: http://www.gutenberg.org/ebooks/2981
